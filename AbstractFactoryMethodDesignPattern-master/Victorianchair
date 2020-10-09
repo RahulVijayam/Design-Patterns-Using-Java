@@ -1,0 +1,9 @@
+package com.anotherexampleforabstractdp;
+
+public class Victorianchair implements chair {
+
+	public String getchairdetails()
+	{
+		return "Thanks For Shopping a chair\nModalType:Victorian\n Modal Number:#3494\nprice:299/- per chair";
+	}
+}

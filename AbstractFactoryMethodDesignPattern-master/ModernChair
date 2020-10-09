@@ -1,0 +1,9 @@
+package com.anotherexampleforabstractdp;
+
+public class ModernChair implements chair
+{
+	public String getchairdetails()
+	{
+		return "Thanks For Shopping a chair\nModalType:Modern\nModal Number:3u38\nprice:500/- per chair";
+	}
+}
